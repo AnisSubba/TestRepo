@@ -1,3 +1,7 @@
 # This is my README.md
-# Objective: 
-# Learn more!
+** Objective: ** 
+* git status
+* git diff
+* git add
+* git commit - u ...
+* git push
